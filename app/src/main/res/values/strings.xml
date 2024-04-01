@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Github User-Apps</string>
+    <string name="empty_fragment">Hello world</string>
+    <string name="content_tab_home">Home</string>
+    <string name="content_tab_profile">Profile</string>\
+    <string name="hasNoFollowers">No Followers Found</string>
+    <string name="hasNoFollowing">No Followings Found</string>
+    <string name="userNone">Account not Found!</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Followings</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="FavoriteIcon">Favico.ico</string>
+    <string name="DarkModeDesc">Make your eyes comfort through the darkness</string>
+    <string name="Setting">Setting</string>
+    <string name="DarkMode">Dark Mode</string>
+    <string name="DarkModeOn">Turn On Dark Mode</string>
+    <string name="DarkModeOff">Turn Off Dark Mode</string>
+    <string name="FavoriteList">List Favorite</string>
+    <string name="TextSplash">Final Submission for Android Fundamental here!</string>
+    <string name="IconSplash">Splash Icon!!!!</string>
+    <string name="EmptyUserFavorite">No Favorite User Found!</string>
+    <string name="FavoriteUser">Favorite User</string>
+    <string name="FavoriteCheck">See favorite</string>
+    <string name="Undo">Undo</string>
+    <string name="UndoToast">Successfully Undo Your Action!</string>
+    <string name="RemoveFromFavorite">Successfully Deleted From Favorite!</string>
+    <string name="addToFav">Successfully Added To Favorite!</string>
+</resources>
